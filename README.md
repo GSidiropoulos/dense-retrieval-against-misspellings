@@ -1,2 +1,2 @@
-# GSidiropoulos-dense-retrieval-against-misspellings
-Analysing the Robustness of Dual Encoders for Dense Retrieval Against Misspellings
+# Analysing the Robustness of Dual Encoders for Dense Retrieval Against Misspellings
+SIGIR 2022
