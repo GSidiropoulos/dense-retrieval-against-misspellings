@@ -3,6 +3,15 @@
 This repository contains resources for the paper:
 [Analysing the Robustness of Dual Encoders for Dense Retrieval Against Misspellings](https://dl.acm.org/doi/10.1145/3477495.3531818). In: Proceedings of SIGIR 2022
 
+### Challenging test sets
+Challenging test sets where typos appear in random words, non-stop words, as well as highly discriminative utterances, can be found under the "test" directory.
+
+### Download trained models and results.
+Download results.
+```bash
+bash download.sh
+```
+
 ## Citation
 If you find this work helpful or use it in your own work, please cite our paper. 
 ```
