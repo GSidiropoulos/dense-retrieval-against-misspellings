@@ -1,7 +1,7 @@
 # Analysing the Robustness of Dual Encoders for Dense Retrieval Against Misspellings
 
-This is the official implementation of the following paper:
-Georgios Sidiropoulos and Evangelos Kanoulas. [Analysing the Robustness of Dual Encoders for Dense Retrieval Against Misspellings](https://dl.acm.org/doi/10.1145/3477495.3531818). In: Proceedings of SIGIR 2022
+This repository contains resources for the paper:
+[Analysing the Robustness of Dual Encoders for Dense Retrieval Against Misspellings](https://dl.acm.org/doi/10.1145/3477495.3531818). In: Proceedings of SIGIR 2022
 
 ## Citation
 If you find this work helpful or use it in your own work, please cite our paper. 
