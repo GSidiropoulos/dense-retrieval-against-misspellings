@@ -7,7 +7,7 @@ This repository contains resources for the paper:
 Challenging test sets where typos appear in random words, non-stop words, as well as highly discriminative utterances, can be found under the "test" directory.
 
 ### Download trained models and results.
-Download results.
+Download the pretrained retrieval models and the retrieval results:
 ```bash
 bash download.sh
 ```
