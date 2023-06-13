@@ -1,13 +1,17 @@
 # @package _group_
 
+nq_test:
+  _target_: dpr.data.retriever_data.CsvQASrc
+  file: data.retriever.qas.nq-test
+  #query_special_suffix: '?'
 
 nq_train:
   _target_: dpr.data.retriever_data.CsvQASrc
-  file: /ivi/ilps/personal/gsidiro/code/DPR/downloads/data/retriever_or/nq-train.json
+  file: data.retriever.qas.nq-train
 
 nq_dev:
   _target_: dpr.data.retriever_data.CsvQASrc
-  file: /ivi/ilps/personal/gsidiro/code/DPR/downloads/data/retriever_or/nq-dev.json
+  file: data.retriever.qas.nq-dev
 
 trivia_test:
   _target_: dpr.data.retriever_data.CsvQASrc
