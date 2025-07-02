@@ -31,3 +31,7 @@ numpages = {5},
 location = {Madrid, Spain},
 series = {SIGIR '22}
 }
+```
+
+## Questions
+If you have any questions, please contact [Georgios Sidiropoulos](mailto:gn.sidiro@yahoo.com).
